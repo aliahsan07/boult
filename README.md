@@ -17,3 +17,4 @@ The idea is to understand the implementation and internals of a NoSQL database a
 * Make it distributed?
 
 
+
